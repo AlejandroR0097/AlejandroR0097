@@ -26,7 +26,7 @@ Soy un programador Backend apasionado con una sólida formación en diversos len
                   
                   
 <p align="left">
-<a href="https://www.github.com/Zenin0097" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/AlejandroR0097" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
@@ -52,12 +52,12 @@ Soy un programador Backend apasionado con una sólida formación en diversos len
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zenin0097&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroR0097&theme=shadow_blue&hide_border=false)<br/>
 </div>
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Zenin0097&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AlejandroR0097&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 </div>
 
 <div>
